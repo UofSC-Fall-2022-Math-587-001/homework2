@@ -1,6 +1,6 @@
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/UofSC-Fall-2022-Math-587-001/homework1)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/UofSC-Fall-2022-Math-587-001/homework2)
 
-## Homework 1: Due 2022.08.29 
+## Homework 2: Due 2022.09.05 
 
 This week we have a written part and an implementation part. 
 
@@ -20,13 +20,4 @@ of the questions...)
 
 ### Implementation part 
 
-Make `cipher.go` work. There are more detailed instructions in the comments.
-
-(Hint: characters are secretly just numbers via ASCII encodings. Use that 
-to make your life easier. Or don't)
-
-Bonus points: create `better_cipher.go` and have it (maybe)
-- prompt the user for the desired shift
-- use a custom substition table 
-- check if a phrase is encoded via Caesar cipher 
-- properly sanitize the user input
+Make `euclid_algo.go` work. There are more detailed instructions in the comments.
