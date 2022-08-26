@@ -19,5 +19,36 @@
         "comparison": "included",
         "timeout": 5,
         "points": 1
+      },
+      {
+        "name": "Euclidan algorithm test 2",
+        "setup": "",
+        "run": "HOME='/home/runner' go test -run 2",
+        "input" : "",
+        "output": "PASS",
+        "comparison": "included",
+        "timeout": 5,
+        "points": 1
+      },
+      {
+        "name": "Euclidan algorithm test 2",
+        "setup": "",
+        "run": "HOME='/home/runner' go test -run 2",
+        "input" : "",
+        "output": "PASS",
+        "comparison": "included",
+        "timeout": 5,
+        "points": 1
+      },
+      {
+        "name": "Euclidan algorithm test 3",
+        "setup": "",
+        "run": "HOME='/home/runner' go test -run 3",
+        "input" : "",
+        "output": "PASS",
+        "comparison": "included",
+        "timeout": 5,
+        "points": 1
       }
+    ]
 }
