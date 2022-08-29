@@ -1,6 +1,6 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/UofSC-Fall-2022-Math-587-001/homework2)
 
-## Homework 2: Due 2022.09.05 
+## Homework 2: Due 2022.09.06 
 
 This week we have a written part and an implementation part. 
 
